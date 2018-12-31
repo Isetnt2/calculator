@@ -1,5 +1,4 @@
 let result_div = document.getElementById("resultDisplay");
-let result_HTML = result_div.innerHTML;
 let numbers = document.querySelectorAll(".number");
 let operators = document.querySelectorAll(".opr");
 let equals = document.getElementById("getResult");
